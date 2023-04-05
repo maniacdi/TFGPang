@@ -1,4 +1,4 @@
-### Pang - Final Degree Project
+## Pang - Final Degree Project
 This is the repository for my final degree project in software engineering, where I recreated the classic arcade game Pang using C# and Unity. In addition to recreating the original game, I added several new features and enhancements to make the game more enjoyable and engaging.
 
 ## Gameplay
