@@ -1,0 +1,1664 @@
+fileFormatVersion: 2
+guid: 5175bdb7de8544d4b977573edee47986
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: TimePause
+  - first:
+      213: 21300002
+    second: PangMobile_1
+  - first:
+      213: 21300004
+    second: PangMobile_2
+  - first:
+      213: 21300006
+    second: PangMobile_3
+  - first:
+      213: 21300008
+    second: PangMobile_4
+  - first:
+      213: 21300010
+    second: PangMobile_5
+  - first:
+      213: 21300012
+    second: PangMobile_6
+  - first:
+      213: 21300014
+    second: PangMobile_7
+  - first:
+      213: 21300016
+    second: PangMobile_8
+  - first:
+      213: 21300018
+    second: PangMobile_9
+  - first:
+      213: 21300020
+    second: PangMobile_10
+  - first:
+      213: 21300022
+    second: PangMobile_11
+  - first:
+      213: 21300024
+    second: PangMobile_12
+  - first:
+      213: 21300026
+    second: PangMobile_13
+  - first:
+      213: 21300028
+    second: PangMobile_14
+  - first:
+      213: 21300030
+    second: PangMobile_15
+  - first:
+      213: 21300032
+    second: PangMobile_16
+  - first:
+      213: 21300034
+    second: DoubleArrow
+  - first:
+      213: 21300036
+    second: Gun
+  - first:
+      213: 21300038
+    second: Ancle
+  - first:
+      213: 21300040
+    second: Shield
+  - first:
+      213: 21300042
+    second: DoubleArrow
+  - first:
+      213: 21300044
+    second: PangMobile_22
+  - first:
+      213: 21300046
+    second: Dynamite
+  - first:
+      213: 21300048
+    second: shield_1
+  - first:
+      213: 21300050
+    second: TimeStop
+  - first:
+      213: 21300052
+    second: TimeSlow
+  - first:
+      213: 21300054
+    second: Life
+  - first:
+      213: 21300056
+    second: Reloj
+  - first:
+      213: 21300058
+    second: Reloj
+  - first:
+      213: 21300060
+    second: PangMobile_30
+  - first:
+      213: 21300062
+    second: PangMobile_31
+  - first:
+      213: 21300064
+    second: Fruit1
+  - first:
+      213: 21300066
+    second: Fruit2
+  - first:
+      213: 21300068
+    second: Fruit_03
+  - first:
+      213: 21300070
+    second: Fruit_04
+  - first:
+      213: 21300072
+    second: Fruit_05
+  - first:
+      213: 21300074
+    second: Fruit_06
+  - first:
+      213: 21300076
+    second: Fruit_07
+  - first:
+      213: 21300078
+    second: Fruit_08
+  - first:
+      213: 21300080
+    second: Fruit_09
+  - first:
+      213: 21300082
+    second: Fruit_10
+  - first:
+      213: 21300084
+    second: Fruit_11
+  - first:
+      213: 21300086
+    second: Fruit_12
+  - first:
+      213: 21300088
+    second: Fruit_13
+  - first:
+      213: 21300090
+    second: Fruit_14
+  - first:
+      213: 21300092
+    second: PangMobile_46
+  - first:
+      213: 21300094
+    second: PangMobile_47
+  - first:
+      213: 21300096
+    second: PangMobile_48
+  - first:
+      213: 21300098
+    second: PangMobile_49
+  - first:
+      213: 21300100
+    second: PangMobile_50
+  - first:
+      213: 21300102
+    second: PangMobile_51
+  - first:
+      213: 21300104
+    second: Fruit_01
+  - first:
+      213: 21300106
+    second: Fruit_02
+  - first:
+      213: -6485639063874678333
+    second: PangMobile_0
+  - first:
+      213: 6999212746246930018
+    second: PangMobile_1
+  - first:
+      213: -6594060078551704198
+    second: PangMobile_2
+  - first:
+      213: 245765738306662599
+    second: PangMobile_3
+  - first:
+      213: -9128228169062312503
+    second: PangMobile_4
+  - first:
+      213: -7554254920468299789
+    second: PangMobile_5
+  - first:
+      213: 5458515022567714690
+    second: PangMobile_6
+  - first:
+      213: 807751461164102020
+    second: PangMobile_7
+  - first:
+      213: -6432590195500462762
+    second: PangMobile_8
+  - first:
+      213: 4645729955786845936
+    second: PangMobile_9
+  - first:
+      213: -2351443174660912302
+    second: PangMobile_10
+  - first:
+      213: 8853239062376495782
+    second: PangMobile_11
+  - first:
+      213: -60734769125883412
+    second: PangMobile_12
+  - first:
+      213: -5990640380147650231
+    second: PangMobile_13
+  - first:
+      213: -3430729493602158216
+    second: PangMobile_14
+  - first:
+      213: 5777573233051818480
+    second: PangMobile_15
+  - first:
+      213: -3472230723735955686
+    second: PangMobile_16
+  - first:
+      213: -3510776688940018706
+    second: PangMobile_17
+  - first:
+      213: -7032621430827482478
+    second: PangMobile_18
+  - first:
+      213: 9093780502501485062
+    second: PangMobile_19
+  - first:
+      213: 2349244558602747762
+    second: DoubleArrow
+  - first:
+      213: -3954633184199239701
+    second: DoubleArrow
+  - first:
+      213: 8312159202626456590
+    second: PangMobile_22
+  - first:
+      213: 7842597756779992198
+    second: shield
+  - first:
+      213: 4731705966204803799
+    second: shield_1
+  - first:
+      213: -3869233094202350018
+    second: shield_2
+  - first:
+      213: 5895691457747512020
+    second: PangMobile_26
+  - first:
+      213: 5796167048274326090
+    second: Dinamita
+  - first:
+      213: -2443874845009330866
+    second: Reloj
+  - first:
+      213: -1183363742618004930
+    second: Reloj
+  - first:
+      213: 7608722333125899126
+    second: PangMobile_30
+  - first:
+      213: -3303112683003598291
+    second: PangMobile_31
+  - first:
+      213: 646785342167118682
+    second: PangMobile_32
+  - first:
+      213: -7146398446701197874
+    second: PangMobile_33
+  - first:
+      213: -2979063350663999565
+    second: PangMobile_34
+  - first:
+      213: 723398941565641630
+    second: PangMobile_35
+  - first:
+      213: 1464793768722771665
+    second: PangMobile_36
+  - first:
+      213: -8924465882197886953
+    second: PangMobile_37
+  - first:
+      213: 7576317024989486508
+    second: PangMobile_38
+  - first:
+      213: 7347299143281015211
+    second: PangMobile_39
+  - first:
+      213: -5549238335198937081
+    second: PangMobile_40
+  - first:
+      213: 2488790991861258867
+    second: PangMobile_41
+  - first:
+      213: -8261405809439399470
+    second: PangMobile_42
+  - first:
+      213: -4502598512481401124
+    second: PangMobile_43
+  - first:
+      213: 154453193134240483
+    second: PangMobile_44
+  - first:
+      213: -7989160756278796019
+    second: PangMobile_45
+  - first:
+      213: 6297756710837392832
+    second: PangMobile_46
+  - first:
+      213: 3780447174213686687
+    second: PangMobile_47
+  - first:
+      213: 6061054642254994773
+    second: PangMobile_48
+  - first:
+      213: -68990848726974135
+    second: PangMobile_49
+  - first:
+      213: 5415260469333096987
+    second: PangMobile_50
+  - first:
+      213: 3526683585917319182
+    second: PangMobile_51
+  - first:
+      213: -7898067911067255723
+    second: PangMobile_52
+  - first:
+      213: -5370787583641374061
+    second: PangMobile_0
+  - first:
+      213: 5651653199003989592
+    second: PangMobile_17
+  - first:
+      213: 3419783821482948140
+    second: PangMobile_18
+  - first:
+      213: 8649977918461640508
+    second: PangMobile_19
+  - first:
+      213: 2349244558602747762
+    second: PangMobile_20
+  - first:
+      213: 92249107731049935
+    second: PangMobile_23
+  - first:
+      213: 4731705966204803799
+    second: PangMobile_24
+  - first:
+      213: 881121916600490385
+    second: PangMobile_25
+  - first:
+      213: -3301629131054556346
+    second: PangMobile_26
+  - first:
+      213: -8165042393433394194
+    second: Dinamita
+  - first:
+      213: -2443874845009330866
+    second: PangMobile_28
+  - first:
+      213: 345004081986458882
+    second: PangMobile_32
+  - first:
+      213: 3206698690358975149
+    second: PangMobile_33
+  - first:
+      213: 8568762330754593538
+    second: PangMobile_34
+  - first:
+      213: 8506962922260773866
+    second: PangMobile_35
+  - first:
+      213: 4849095305488175548
+    second: PangMobile_36
+  - first:
+      213: 3882529907116771659
+    second: PangMobile_37
+  - first:
+      213: 8906945473314215610
+    second: PangMobile_38
+  - first:
+      213: 1699798133976819392
+    second: PangMobile_39
+  - first:
+      213: -3444656734803627906
+    second: PangMobile_40
+  - first:
+      213: -2260977492963664654
+    second: PangMobile_41
+  - first:
+      213: -5747447673107665937
+    second: PangMobile_42
+  - first:
+      213: 377520895681328941
+    second: PangMobile_43
+  - first:
+      213: -3022972602163714060
+    second: PangMobile_44
+  - first:
+      213: 8766004519588057438
+    second: PangMobile_45
+  - first:
+      213: 4027012421713587196
+    second: PangMobile_52
+  - first:
+      213: -6529665303279456450
+    second: PangMobile_53
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 25
+    textureCompression: 2
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PangMobile_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 186
+        width: 28
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e3f67c8e2322160800000000000000
+      internalID: 6999212746246930018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PangMobile_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 186
+        width: 29
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d575e9b413d74a0800000000000000
+      internalID: -6594060078551704198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PangMobile_3
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 186
+        width: 27
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0fab903a2296300800000000000000
+      internalID: 245765738306662599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PangMobile_4
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 186
+        width: 28
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5935af7d4025180800000000000000
+      internalID: -9128228169062312503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PangMobile_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 200
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff7dba8c25e92790800000000000000
+      internalID: -7554254920468299789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PangMobile_6
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 198
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f28491e7a80cb40800000000000000
+      internalID: 5458515022567714690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PangMobile_7
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 186
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4813d7d9ca5b53b00800000000000000
+      internalID: 807751461164102020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PangMobile_8
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 200
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65dc88b6c49dab6a0800000000000000
+      internalID: -6432590195500462762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PangMobile_9
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 204
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fee019d7c2f87040800000000000000
+      internalID: 4645729955786845936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PangMobile_10
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 204
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25bc1d024eefd5fd0800000000000000
+      internalID: -2351443174660912302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PangMobile_11
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 168
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa309055060dda70800000000000000
+      internalID: 8853239062376495782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PangMobile_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 136
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce18cbc9c0a382ff0800000000000000
+      internalID: -60734769125883412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PangMobile_13
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 136
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94130346058fcdca0800000000000000
+      internalID: -5990640380147650231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PangMobile_14
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 136
+        width: 27
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879336dc3b99360d0800000000000000
+      internalID: -3430729493602158216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PangMobile_15
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 136
+        width: 27
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9dbdb9e301e2050800000000000000
+      internalID: 5777573233051818480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PangMobile_16
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 136
+        width: 26
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17558dad8820dfc0800000000000000
+      internalID: -3472230723735955686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PangMobile_20
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 121
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f390eaa713a9020800000000000000
+      internalID: 2349244558602747762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoubleArrow
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 95
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be715de42125e19c0800000000000000
+      internalID: -3954633184199239701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PangMobile_22
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 95
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c4b0d41c8ba5370800000000000000
+      internalID: 8312159202626456590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PangMobile_24
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 95
+        width: 12
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dadb31b1856aa140800000000000000
+      internalID: 4731705966204803799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PangMobile_28
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 95
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4db4b3d6cc951ed0800000000000000
+      internalID: -2443874845009330866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reloj
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 95
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e325d2122f8d39fe0800000000000000
+      internalID: -1183363742618004930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PangMobile_30
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 95
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 673fc8436ac979960800000000000000
+      internalID: 7608722333125899126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PangMobile_31
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 95
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2aab74f38cf822d0800000000000000
+      internalID: -3303112683003598291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PangMobile_46
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 60
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c59b4f8c50266750800000000000000
+      internalID: 6297756710837392832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PangMobile_47
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 60
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95d22fdca8d67430800000000000000
+      internalID: 3780447174213686687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PangMobile_48
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 60
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d57d395113d1450800000000000000
+      internalID: 6061054642254994773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PangMobile_49
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 60
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94140e84035ea0ff0800000000000000
+      internalID: -68990848726974135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PangMobile_50
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 0
+        width: 47
+        height: 46
+      alignment: 9
+      pivot: {x: 0.50676346, y: 0.11747632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a70d0a4bed62b40800000000000000
+      internalID: 5415260469333096987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PangMobile_51
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 44
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5072245, y: 0.11747632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e087dc5490c41f030800000000000000
+      internalID: 3526683585917319182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PangMobile_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 186
+        width: 25
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3923af8f5212775b0800000000000000
+      internalID: -5370787583641374061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PangMobile_17
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 136
+        width: 31
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856355804a4be6e40800000000000000
+      internalID: 5651653199003989592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PangMobile_18
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 136
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c267e105443857f20800000000000000
+      internalID: 3419783821482948140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PangMobile_19
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 136
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ff0e85615ea0870800000000000000
+      internalID: 8649977918461640508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PangMobile_23
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 95
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcde721231cb74100800000000000000
+      internalID: 92249107731049935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PangMobile_25
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 95
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19998caf6bf5a3c00800000000000000
+      internalID: 881121916600490385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PangMobile_26
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 95
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b596f4cc14e22d0800000000000000
+      internalID: -3301629131054556346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dinamita
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 95
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3b5631431ffae80800000000000000
+      internalID: -8165042393433394194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PangMobile_32
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 95
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205dcd87263b9c400800000000000000
+      internalID: 345004081986458882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PangMobile_33
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 95
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa9e84187b708c20800000000000000
+      internalID: 3206698690358975149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PangMobile_34
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 95
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2033069c0fb5ae670800000000000000
+      internalID: 8568762330754593538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PangMobile_35
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 95
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aebb5cab4bdce0670800000000000000
+      internalID: 8506962922260773866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PangMobile_36
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 60
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb113ad1d727b4340800000000000000
+      internalID: 4849095305488175548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PangMobile_37
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 60
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b498687416481e530800000000000000
+      internalID: 3882529907116771659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PangMobile_38
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 60
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6daaa87b3db9b70800000000000000
+      internalID: 8906945473314215610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PangMobile_39
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 60
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c66f8d9565e69710800000000000000
+      internalID: 1699798133976819392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PangMobile_40
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 60
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e707fd443fe1230d0800000000000000
+      internalID: -3444656734803627906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PangMobile_41
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 60
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc5fb603f46f90e0800000000000000
+      internalID: -2260977492963664654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PangMobile_42
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 60
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feba547eac6fc30b0800000000000000
+      internalID: -5747447673107665937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PangMobile_43
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 60
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d277f5221493d3500800000000000000
+      internalID: 377520895681328941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PangMobile_44
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 60
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f72b4a4f6e3c06d0800000000000000
+      internalID: -3022972602163714060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PangMobile_45
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 60
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51d3819aaa17a970800000000000000
+      internalID: 8766004519588057438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PangMobile_52
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5000003, y: 0.11258147}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfbe2562672d2e730800000000000000
+      internalID: 4027012421713587196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PangMobile_53
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 9
+        width: 5
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3fa5d79008f165a0800000000000000
+      internalID: -6529665303279456450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

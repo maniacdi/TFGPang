@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Roof
+  - Ground
+  - Left
+  - Right
+  - Ball
+  - Arrow
+  - Ancle
+  - Laser
+  - Ladder
+  - Platform
+  - Progress
+  - Level
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Shot
+  - Ball
+  - 'Ground '
+  - Wall
+  - Item
+  - Ladder
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: player
+    uniqueID: 2876392215
+    locked: 0
+  - name: -1
+    uniqueID: 2922939851
+    locked: 0
